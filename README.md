@@ -29,13 +29,13 @@
    <a href="https://www.mysql.com/">
 <img alt="therran" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="60">
   </a>
-     <a href="https://www.mysql.com/](https://www.microsoft.com/es-es/sql-server/sql-server-downloads">
+     <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads">
 <img alt="therran" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-part-azure-sql-database-with-azure-active-directory-17.png" width="60">
   </a>
  <a href="https://powerbi.microsoft.com/es-es/">
 <img alt="therran" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" width="60">
   </a>
- <a href="https://pandas.pydata.org/about/citing.html">
+ <a href="https://pandas.pydata.org/">
 <img alt="therran" src="https://www.seekpng.com/png/full/70-701902_pandas-logo-pandas-python-logo.png" width="85">
   </a>
    <a href="https://jupyter.org/">
