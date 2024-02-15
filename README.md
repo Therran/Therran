@@ -8,7 +8,7 @@
 
 <p> Con Python, he creado scripts para automatizar tareas, webscrapping, analizar datos y generar reportes. </p>
 <p> He diseñado arquitectura y procesos ETL con bases de datos relacionales, usando SQL Server, MySQL y PostgreSQL. </p>
-<p> Aprendiendo JAVA.
+<p> Aprendiendo JavaScript y Frameworks.
 <P> Actualmente aprendiendo a programar IA con tecnologias TENSOR Flow, Keras y tecnologias de modulacion </p>
 
 
