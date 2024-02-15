@@ -4,7 +4,7 @@
 
 <img alt="therran" align="right" src="" width="100">
 
-<p align=”justify” style="text-indent:40px;"> Soy <b> Salomon Herrera </b> un desarrollador y analista <b>autodidacta</b> que utiliza lenguajes de programacion como Python, SQL y Java. Estos son algunos de los proyectos que he realizado con estos lenguajes: </p>
+<p align=”justify” style="text-indent:40px;"> Soy desarrollador y analista <b>autodidacta</b> que utiliza lenguajes de programacion como Python, SQL. Estos son algunos de los proyectos que he realizado con estos lenguajes: </p>
 
 <p> Con Python, he creado scripts para automatizar tareas, webscrapping, analizar datos y generar reportes. </p>
 <p> He diseñado arquitectura y procesos ETL con bases de datos relacionales, usando SQL Server, MySQL y PostgreSQL. </p>
